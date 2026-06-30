@@ -34,7 +34,7 @@ const seconds=Math.floor(diff/1000)%60;
 
 document.getElementById("timer").innerHTML=
 
-`${days} giorni ${hours} ore ${minutes} minuti ${seconds} secondi`;
+`${days} 688 giorni ${hours} 20 ore ${minutes} 10 minuti ${seconds} 5 secondi`;
 
 }
 
